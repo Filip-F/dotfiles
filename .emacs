@@ -28,3 +28,4 @@
 (global-set-key [(control x) (k)] 'kill-this-buffer)
 (global-set-key [(control x) (g)] 'magit-status)
 (global-linum-mode t)
+(latex-preview-pane-enable)
